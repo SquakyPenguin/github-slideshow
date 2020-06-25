@@ -2,5 +2,5 @@
 layout: slide
 title: "Second slide time!"
 ---
-My text
+it really be like that sometimes
 Use the left arrow to go back!
